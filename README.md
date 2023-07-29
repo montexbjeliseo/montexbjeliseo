@@ -12,7 +12,8 @@
 ### Technologies
 #### Frontend
 - HTML5
-- CSS5
+- CSS3
+- Bootstrap
 #### Testing and Backend 
 - Spring
 - JUnit
