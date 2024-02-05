@@ -1,34 +1,14 @@
 # 👋 Hi there, I’m @montexbjeliseo
-## What am I up to these days?
-- I'm learning Data Analytics, React and Angular
+## About me
+I am Eliseo, a full stack web developer. I develop complete web applications using different technologies such as Java, Spring, Javascript, React, Angular, Astro, Python, Django, HTML, CSS, GIT, etc.
 
-## What knowledge do I have?
-### Languages
-- Java
-- Python
-- JavaScript
-- TypeScript
-- SQL
-### Technologies
-#### Frontend
-- HTML5
-- CSS3
-- Bootstrap
-#### Testing and Backend 
-- Spring
-- JUnit
-- Mockito
-- Json Web Token
-- Django
+I consider myself a proactive, adaptive and collaborative person. I enjoy learning and teaching.
+
+I have studied at the Machagai Institute of Higher Education, a higher degree in software development. Although I constantly continue to learn self-taught and through courses and internet resources.
+
+## Some graphs
+<img src="https://github-readme-stats.vercel.app/api?username=montexbjeliseo&show=prs_merged,prs_reviewed&theme=dark&show_icons=true&locale=en" alt="montexbjeliseo github stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=montexbjeliseo&locale=en&layout=compact&card_width=320&theme=dark"
+            alt="montexbjeliseo language graph" />
 
 You can get in touch with me through: secondmtx@gmail.com
-<!--- Angular ---> 
-<!---
-- 👀 I’m interested in videos games, java development, web design!
-- 🌱 I’m currently learning ruby on rails and springboot!
-- 💞️ I’m looking to collaborate on [Maybe later]
-- 📫 How to reach me: secondmtx@gmail.com
-
-montexbjeliseo/montexbjeliseo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
